@@ -3,7 +3,7 @@ RENCANA CONTENT
 -JavaScript
  *ES6
  *VueJS
--HTML
- *CSS
- *VisualSC
+ *Angular
+ *React
 -MySQL
+ *Database
