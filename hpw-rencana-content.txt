@@ -4,4 +4,6 @@ RENCANA CONTENT
  *ES6
  *VueJS
 -HTML
+ *CSS
+ *VisualSC
 -MySQL
