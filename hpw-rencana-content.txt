@@ -2,7 +2,7 @@ RENCANA CONTENT
 
 -JavaScript
  *ES6
- *VueJS
+ *VueJS 
  *React
 -HTML
  *CSS
