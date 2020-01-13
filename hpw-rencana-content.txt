@@ -1,0 +1,7 @@
+RENCANA CONTENT
+
+-JavaScript
+ *ES6
+ *VueJS
+-HTML
+-MySQL
